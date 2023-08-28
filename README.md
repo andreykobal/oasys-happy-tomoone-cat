@@ -1,5 +1,10 @@
 # Hackathon Project: TomoOne Cat - The Ultimate AI NFT Avatar Companion
 
+![happy cat](https://github.com/andreykobal/simple-nft-minter/assets/19206978/85500db4-77c0-4026-acf5-66085582f761)
+
+
+[YouTube Demo Video](https://www.youtube.com/watch?v=2RhN2ykmpNc)
+
 ## Introduction
 
 Step into the extraordinary world of TomoOne Cat - a revolutionary project that seamlessly merges AI NFT avatars with immersive gaming integration. Our goal is to redefine the way we interact with virtual identities, ushering in a new era of gaming and companionship.
