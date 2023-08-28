@@ -1,4 +1,4 @@
-# Hackathon Project: TomoOne Cat - The Ultimate AI NFT Avatar Companion
+# Hackathon Project: TomoOne Cat - The Ultimate AINFT Avatar Companion
 
 ![happy cat](https://github.com/andreykobal/simple-nft-minter/assets/19206978/85500db4-77c0-4026-acf5-66085582f761)
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Step into the extraordinary world of TomoOne Cat - a revolutionary project that seamlessly merges AI NFT avatars with immersive gaming integration. Our goal is to redefine the way we interact with virtual identities, ushering in a new era of gaming and companionship.
+Step into the extraordinary world of TomoOne Cat - a revolutionary project that seamlessly merges AINFT avatars with immersive gaming integration. Our goal is to redefine the way we interact with virtual identities, ushering in a new era of gaming and companionship.
 
 ## The Challenge
 
@@ -15,9 +15,9 @@ The gaming landscape often falls short in connecting players with their avatars,
 
 ## The Solution
 
-**TomoOne Cat - Your Dynamic AI NFT Avatar Companion**
+**TomoOne Cat - Your Dynamic AINFT Avatar Companion**
 
-Meet the enchanting TomoOne Cat - an AI NFT avatar that takes personalization and interaction to unprecedented heights. Through advanced AI technology, we've brought this cat to life in a lifelike 3D model, infusing it with a distinctive personality that goes beyond mere avatars.
+Meet the enchanting TomoOne Cat - an AINFT avatar that takes personalization and interaction to unprecedented heights. Through advanced AI technology, we've brought this cat to life in a lifelike 3D model, infusing it with a distinctive personality that goes beyond mere avatars.
 
 **Unlock the Oasys and Ubisoft Universes**
 
@@ -25,7 +25,7 @@ Our innovation doesn't stop at traditional borders. TomoOne Cat seamlessly integ
 
 ## Key Features
 
-1. **AI NFT Avatar Creation**: Transform your beloved feline friend into a personalized TomoOne Cat AI NFT avatar using cutting-edge AI techniques.
+1. **AINFT Avatar Creation**: Transform your beloved feline friend into a personalized TomoOne Cat AINFT avatar using cutting-edge AI techniques.
 
 2. **Lifelike 3D Model**: Marvel at the realism of the TomoOne Cat's 3D model, brought to life by AI-driven rendering.
 
@@ -35,17 +35,17 @@ Our innovation doesn't stop at traditional borders. TomoOne Cat seamlessly integ
 
 5. **Ubisoft Partnership**: Embark on thrilling quests within Ubisoft games with your faithful companion by your side, enriching both your gameplay and personal connection.
 
-6. **Seamless Interoperability**: Our AI NFT standard guarantees smooth transitions for TomoOne Cat between diverse virtual realms, revolutionizing gaming versatility.
+6. **Seamless Interoperability**: Our AINFT standard guarantees smooth transitions for TomoOne Cat between diverse virtual realms, revolutionizing gaming versatility.
 
 ## How It Works
 
-1. **AI NFT Avatar Creation**: Upload an image of your cat and let our AI transform it into a unique NFT avatar.
+1. **AINFT Avatar Creation**: Upload an image of your cat and let our AI transform it into a unique NFT avatar.
 
 2. **Infuse Personality**: AI generates distinctive personality traits for TomoOne Cat, facilitating engaging interactions.
 
 3. **Game Integration**: Witness the magic as TomoOne Cat seamlessly integrates into Oasys and Ubisoft games, enhancing your virtual experiences.
 
-4. **Interoperability**: TomoOne Cat's AI NFT format ensures effortless movement between game worlds while preserving its individuality.
+4. **Interoperability**: TomoOne Cat's AINFT format ensures effortless movement between game worlds while preserving its individuality.
 
 ## The Tech Behind It
 
@@ -53,11 +53,11 @@ Our innovation doesn't stop at traditional borders. TomoOne Cat seamlessly integ
 - AI: Deep Learning models for image transformation and personality generation.
 - 3D Rendering: AI-driven rendering techniques for lifelike visualizations.
 - Game Integration: Oasys and Ubisoft APIs for a seamless avatar experience.
-- Blockchain: Ethereum network for AI NFT creation and interoperability standard.
+- Blockchain: Ethereum network for AINFT creation and interoperability standard.
 
 ## The Impact
 
-TomoOne Cat transcends traditional avatars, leading the way for interactive AI NFT companionship. This project exemplifies the immense potential of technology to elevate gaming and foster genuine connections, setting a new standard for virtual identities.
+TomoOne Cat transcends traditional avatars, leading the way for interactive AINFT companionship. This project exemplifies the immense potential of technology to elevate gaming and foster genuine connections, setting a new standard for virtual identities.
 
 ## What's Next?
 
@@ -69,7 +69,7 @@ TomoOne Cat transcends traditional avatars, leading the way for interactive AI N
 
 ## Conclusion
 
-TomoOne Cat revolutionizes the concept of AI NFT avatars, ushering in a new era of interactive companionship. Join us in this journey of exploration, personalization, and seamless cross-realm connections. This isn't just about gaming - it's about embracing an AI-powered, immersive future!
+TomoOne Cat revolutionizes the concept of AINFT avatars, ushering in a new era of interactive companionship. Join us in this journey of exploration, personalization, and seamless cross-realm connections. This isn't just about gaming - it's about embracing an AI-powered, immersive future!
 
 **Embark on a remarkable journey with TomoOne Cat, where AI and gaming unite harmoniously! 🐾🎮🌌**
 
@@ -77,11 +77,11 @@ TomoOne Cat revolutionizes the concept of AI NFT avatars, ushering in a new era 
 
 ## Video Demo 
 
-[YouTube: 🌟 Minting AI NFT Avatars on Oasys: An Immersive Guide! 🚀 ](https://www.youtube.com/watch?v=T9QJgNFNJIE)
+[YouTube: 🌟 Minting AINFT Avatars on Oasys: An Immersive Guide! 🚀 ](https://www.youtube.com/watch?v=T9QJgNFNJIE)
 
 ## Demo
 
-[🌟 **Mint Your AI NFT Avatar on AILAND** 🌟](https://simple-nft-minter-xt5p.vercel.app/)
+[🌟 **Mint Your AINFT Avatar on AILAND** 🌟](https://simple-nft-minter-xt5p.vercel.app/)
 
 **Step 1: Refill Your Wallet**
 1. 🛠️ Refill your Metamask wallet with testnet Oasys tokens.
@@ -122,7 +122,7 @@ Enjoy the magic of AI-powered avatars in the exciting world of AILAND! 🌈🎉�
   
 - **Game Integration**: Use your minted avatar as a skin in supported games.
   
-- **Blockchain Deployment**: Mint your AI NFT avatar directly to the Oasys testnet.
+- **Blockchain Deployment**: Mint your AINFT avatar directly to the Oasys testnet.
 
 ## Prerequisites
 
@@ -238,7 +238,7 @@ Now, open your browser and navigate to `http://localhost:3000` to see the applic
 
    To learn more about how we built the entire infrastructure see the code and README in this repository in the `/ai-nft-implementation` folder
 
-   [AI NFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)
+   [AINFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)
 
 ## Usage
 
@@ -249,7 +249,7 @@ Now, open your browser and navigate to `http://localhost:3000` to see the applic
 
 ## 🎮 Extended Features and In-Game Integration
 
-This repository goes beyond a simple frontend for minting AI NFT avatars. It encompasses a comprehensive ecosystem that enables users to transform selfies into customizable avatars and interact with them through both text and voice.
+This repository goes beyond a simple frontend for minting AINFT avatars. It encompasses a comprehensive ecosystem that enables users to transform selfies into customizable avatars and interact with them through both text and voice.
 
 
 ### **Game Integration with Unity**
@@ -262,7 +262,7 @@ Leveraging cutting-edge AI technology for a new level of engagement with NFT ava
 This repository provides a comprehensive solution with full smart contract implementations tailored for the Oasys. This ensures not just a unique user experience but also a robust and secure transaction environment for minting and transferring the NFTs.
 
 ### **Learn more**
-To explore the full implementation and delve into the specifics of the AI integration, Unity code, smart contracts, and more, check out the detailed documentation and code **here:** **[AI NFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)**
+To explore the full implementation and delve into the specifics of the AI integration, Unity code, smart contracts, and more, check out the detailed documentation and code **here:** **[AINFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)**
 
 
 ![ezgif-4-3cb7c758e1](https://github.com/andreykobal/bitcoin-rootstock-ai-nft-avatars-minter/assets/19206978/0e475dea-244a-4059-b516-74b3c84ad1e7)
