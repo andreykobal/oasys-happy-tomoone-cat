@@ -134,7 +134,7 @@ Enjoy the magic of AI-powered avatars in the exciting world of AILAND! 🌈🎉�
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/andreykobal/Oasys-ai-nft-avatars-minter
+git clone https://github.com/andreykobal/simple-nft-minter
 ```
 
 2. Navigate to the project directory:
@@ -238,7 +238,7 @@ Now, open your browser and navigate to `http://localhost:3000` to see the applic
 
    To learn more about how we built the entire infrastructure see the code and README in this repository in the `/ai-nft-implementation` folder
 
-   [AI NFT Implementation](https://github.com/andreykobal/Oasys-ai-nft-avatars-minter/tree/master/ai-nft-implementation)
+   [AI NFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)
 
 ## Usage
 
@@ -262,7 +262,7 @@ Leveraging cutting-edge AI technology for a new level of engagement with NFT ava
 This repository provides a comprehensive solution with full smart contract implementations tailored for the Oasys. This ensures not just a unique user experience but also a robust and secure transaction environment for minting and transferring the NFTs.
 
 ### **Learn more**
-To explore the full implementation and delve into the specifics of the AI integration, Unity code, smart contracts, and more, check out the detailed documentation and code **here:** **[AI NFT Implementation](https://github.com/andreykobal/Oasys-ai-nft-avatars-minter/tree/master/ai-nft-implementation)**
+To explore the full implementation and delve into the specifics of the AI integration, Unity code, smart contracts, and more, check out the detailed documentation and code **here:** **[AI NFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)**
 
 
 ![ezgif-4-3cb7c758e1](https://github.com/andreykobal/bitcoin-rootstock-ai-nft-avatars-minter/assets/19206978/0e475dea-244a-4059-b516-74b3c84ad1e7)
