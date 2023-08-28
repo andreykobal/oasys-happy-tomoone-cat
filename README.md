@@ -85,7 +85,7 @@ TomoOne Cat revolutionizes the concept of AINFT avatars, ushering in a new era o
 
 **Step 1: Refill Your Wallet**
 1. 🛠️ Refill your Metamask wallet with testnet Oasys tokens.
-2. 🔗 Visit [faucet.rsk.co](https://faucet.rsk.co/).
+2. 🔗 Visit [faucet.testnet.oasys.games](https://faucet.testnet.oasys.games/).
 3. 📝 Follow the on-screen instructions to complete the process.
 
 **Step 2: Create Your Avatar**
