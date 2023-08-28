@@ -351,12 +351,12 @@ function MintNFT() {
     return (
         <div className="mint-container"> {/* Flex container */}
 
-            <iframe
+            {/*<iframe
                 ref={avaturnIframeRef}
                 src="https://demo.avaturn.dev"
                 className="iframeStyle"
             >
-            </iframe>
+    </iframe>*/}
             <div className="sidebar">
                 <div style={{ padding: '20px', textAlign: 'center'  }}>
                     <img src={logo} alt="logo" style={{ width: '150px' }} /> 
