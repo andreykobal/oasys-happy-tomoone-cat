@@ -1,6 +1,10 @@
-# Crosschain AAA WEB3 Shooter Game with AI NFT Avatars on Klaytn Chain
+#
 
-![Ailand_GenArea7_Windows,_Mac,_Linux_Unity_2021_3_5f1_Personal_DX11 (65)](https://github.com/andreykobal/klaytn-ai-nft-avatars/assets/19206978/ce000957-7eab-4654-b014-51f149531d0c)
+# Crosschain AAA WEB3 Shooter Game with AI NFT Avatars on Oasys Chain
+
+![cover-tomo](https://github.com/andreykobal/simple-nft-minter/assets/19206978/c0b07e30-e259-4e91-89ea-e45c78182213)
+
+
 
 
 Welcome to the **Crosschain AAA WEB3 Shooter Game with AI NFT Avatars on Klaytn Chain** GitHub repository! This repository contains the Unity game project along with the smart contracts used in the game. Interactive AI NFT Avatars is an exciting 3D game where players use NFT avatars, complete quests, collect diamonds, and explore magical worlds.
