@@ -265,6 +265,15 @@ This repository provides a comprehensive solution with full smart contract imple
 To explore the full implementation and delve into the specifics of the AI integration, Unity code, smart contracts, and more, check out the detailed documentation and code **here:** **[AINFT Implementation](https://github.com/andreykobal/simple-nft-minter/tree/master/ai-nft-implementation)**
 
 
+![2023-08-28 10 29 28](https://github.com/andreykobal/oasys-happy-tomoone-cat/assets/19206978/314fac81-30d5-4f57-bdda-e3e2d1ce54e6)
+
+# TomoOne Cat AINFT 
+
+![2023-08-28 10 29 49](https://github.com/andreykobal/oasys-happy-tomoone-cat/assets/19206978/aaca35b8-dc08-44a8-8f82-328e6595bf1b)
+
+
+
+
 ![ezgif-4-3cb7c758e1](https://github.com/andreykobal/bitcoin-rootstock-ai-nft-avatars-minter/assets/19206978/0e475dea-244a-4059-b516-74b3c84ad1e7)
 
 
