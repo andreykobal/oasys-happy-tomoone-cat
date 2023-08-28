@@ -358,7 +358,7 @@ function MintNFT() {
             >
     </iframe>*/}
             <div className="sidebar">
-                <div style={{ padding: '20px', textAlign: 'center'  }}>
+                <div style={{ padding: '20px', textAlign: 'center', maxWidth: '500px', margin: 'auto'}}>
                     <img src={logo} alt="logo" style={{ width: '150px' }} /> 
                     <h1 style={{ textAlign: 'center', fontSize: '28px', lineHeight: '32px', margin: '8px 0'}}>Mint Your AI NFT Avatar</h1>
 
