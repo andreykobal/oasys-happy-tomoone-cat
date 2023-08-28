@@ -1,4 +1,9 @@
+
+
+![happy cat](https://github.com/andreykobal/simple-nft-minter/assets/19206978/838efdea-2ec7-4166-9ada-a86139789167)
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
