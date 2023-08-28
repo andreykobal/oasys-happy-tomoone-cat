@@ -68,10 +68,6 @@ TomoOne Cat revolutionizes the concept of AI NFT avatars, ushering in a new era 
 
 **Embark on a remarkable journey with TomoOne Cat, where AI and gaming unite harmoniously! 🐾🎮🌌**
 
-![ezgif-4-a42546f6e2](https://github.com/andreykobal/Oasys-ai-nft-avatars-minter/assets/19206978/a0964d82-49e8-4f9c-b690-1f8f0775af49)
-
-![ezgif-4-e7295bc684](https://github.com/andreykobal/Oasys-ai-nft-avatars-minter/assets/19206978/f8fef8ff-e3f1-4120-9f61-272f33a5b120)
-
 
 
 ## Video Demo 
