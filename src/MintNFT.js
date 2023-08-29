@@ -7,6 +7,7 @@ import btcLogo from './assets/btc.png';
 import ethLogo from './assets/eth.png';
 import polygonLogo from './assets/polygon.png';
 import mantleLogo from './assets/mantle.png';
+import avaturnLogo from './assets/avaturn.png';
 import logo from './assets/logo.png';
 
 const NFT_STORAGE_TOKEN = process.env.REACT_APP_NFT_STORAGE_TOKEN;
@@ -351,16 +352,17 @@ function MintNFT() {
     return (
         <div className="mint-container"> {/* Flex container */}
 
-            {/*<iframe
+            <iframe
                 ref={avaturnIframeRef}
                 src="https://demo.avaturn.dev"
                 className="iframeStyle"
             >
-    </iframe>*/}
+    </iframe>
             <div className="sidebar">
-                <div style={{ padding: '20px', textAlign: 'center', maxWidth: '500px', margin: 'auto'}}>
+                <div style={{ padding: '20px', textAlign: 'center'}}>
                     <img src={logo} alt="logo" style={{ width: '150px' }} /> 
-                    <h1 style={{ textAlign: 'center', fontSize: '28px', lineHeight: '32px', margin: '8px 0'}}>Mint Your AI NFT Avatar</h1>
+                    <h1 style={{ textAlign: 'center', fontSize: '28px', lineHeight: '32px', margin: '8px 0'}}>Mint Your AINFT Avatar</h1>
+                    <h3 style={{ margin: '8px 0'}}>Powered by <img src={avaturnLogo} alt="logo" style={{ width: '100px' }} /></h3>
 
                     <div style={divStyle}>
                         <label style={labelStyle}>Name:</label>
