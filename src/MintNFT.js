@@ -460,7 +460,7 @@ function MintNFT() {
                                 <img src={btcLogo} alt="Bitcoin logo" style={{ width: '20px', marginRight: '5px' }} /> Bitcoin
                             </label>
 
-                            <label style={{ display: 'flex', alignItems: 'center', marginRight: '8px' }}>
+{/*                             <label style={{ display: 'flex', alignItems: 'center', marginRight: '8px' }}>
                                 <input
                                     type="radio"
                                     value="Mantle"
@@ -469,7 +469,7 @@ function MintNFT() {
                                     style={{ marginRight: '5px' }}
                                 />
                                 <img src={mantleLogo} alt="Mantle logo" style={{ width: '20px', marginRight: '5px' }} /> Mantle
-                            </label>
+                            </label> */}
 
                             <label style={{ display: 'flex', alignItems: 'center', marginRight: '8px' }}>
                                 <input
