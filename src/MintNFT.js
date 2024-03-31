@@ -139,7 +139,7 @@ function MintNFT() {
                     symbol: 'MATIC',
                     decimals: 18
                 },
-                rpcUrls: ['https://rpc-mumbai.maticvigil.com/'],
+                rpcUrls: ['https://rpc.ankr.com/polygon_mumbai'],
                 blockExplorerUrls: ['https://mumbai.polygonscan.com/']
             }
 
